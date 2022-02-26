@@ -11,4 +11,4 @@ The purpose of this project was to refactor the current code, replacing the gene
 ## Link to Final Page
 [Horiseon HW link to final page](https://boldsja.github.io/semantic-html/) 
 
-[Github](https://github.com/boldsja/semantic-html)
+[Github Repo](https://github.com/boldsja/semantic-html)
