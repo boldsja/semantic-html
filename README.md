@@ -9,5 +9,6 @@ The purpose of this project was to refactor the current code, replacing the curr
 
 
 ## Link to Final Page
-[Horiseon HW link] (url to github) 
-(url to github)
+[Horiseon HW link](https://boldsja.github.io/semantic-html/) 
+
+[Github Repo](https://github.com/boldsja/semantic-html)
