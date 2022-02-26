@@ -1,11 +1,13 @@
-# semantic-html
+# semantic-html homework
 
 ## Objective
-The purpose of this project was to refactor the current code to make it more concise and improve 
+The purpose of this project was to refactor the current code, replacing the current generic code with semantic HTML and making it more concise. 
 
 ## Screenshot
 
-![description of image] (path to image)
+![Final page screenshot](./assets/images/hw1-screenshot.png) 
 
-## Links
-[description of link] (url to github) (url to website)
+
+## Link to Final Page
+[Horiseon HW link] (url to github) 
+(url to github)
