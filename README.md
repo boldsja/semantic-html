@@ -1,14 +1,36 @@
-# semantic-html homework
-
-## Objective
-The purpose of this project was to refactor the current code, replacing the generic code with semantic HTML and making it more concise. 
-
-## Screenshot
-
-![Final page screenshot](./assets/images/hw1-screenshot.png) 
+## fdj eklaje
 
 
-## Link to Final Page
-[Horiseon HW link to final page](https://boldsja.github.io/semantic-html/) 
 
-[Github Repo](https://github.com/boldsja/semantic-html)
+## Description
+df afeag
+
+## Table of Contents
+  * [Installation] (#installation)
+  * [Usage] (#usage)
+  * [License] (#license)
+  * [Contributing] (#contributing)
+  * [Tests] (#tests)
+  * [Questions] (#questions)
+
+
+## Installation
+efe
+
+## Usage
+afe
+
+## Contributing
+afe
+
+## Test Instructions
+afe
+
+## License
+MIT
+
+## Questions?
+Reach out by email: fe
+
+[Github](https://github.com/ae/) 
+
